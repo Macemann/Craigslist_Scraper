@@ -1,99 +1,91 @@
-Price,Neighborhood,Size
-$1800, (Columbia),/ 2br - 1200ft
-$600, (NOVA),/ 4br - 1400ft
-$700, (8600 Thames Street),/ 4br - 
-$1230, (Falls Church),3br - 1210ft
-$1375, (Manassas),/ 1br - 
-$2600, (Southwest DC),/ 500ft
-$1465, (Arlington),/ 2br - 1200ft
-$955, (Centreville),/ 1br - 680ft
-$820, (Germantown),/ 2br - 
-$1565, (Takoma Park),/ 2br - 
-$1750, (Chantilly),/ 5br - 1450ft
-$1325, (Gaithersburg),/ 2br - 1100ft
-$700, (Annandale),/ 3br - 2091ft
-$700, (Springfield),/ 1br - 
-$2067, (Springfield),/ 1br - 
-$915," (Fairfax, Centreville, Annandale)",/ 3br - 
-$1230, (Waldorf),/ 2br - 
-$2600, (Capitol Hill),/ 2br - 
-$1100, (East Falls Church),/ 3br - 
-$865, (Fredericksburg),/ 1br - 
-$955, (Waldorf),/ 2br - 
-$940, (Silver Spring),/ 2br - 
-$975, (Gaithersburg),/ 2br - 
-$775, (Bethesda),/ 2br - 
-$2900, (Rockville),/ 1br - 
-$1015," (400 Clifford Ave, Alexandria, VA)",/ 3br - 1512ft
-$1850, (Kalorama Heights),/ 2br - 
-$1700, (Foggy Bottom),/ 1br - 
-$1800," (Woodbridge, va)",/ 3br - 
-$2100, (Pentagon City),/ 1br - 900ft
-$1575, (North Arlington),/ 2br - 1000ft
-$2500, (Leesburg),/ 5br - 1841ft
-$2100, (ARLINGTON),/ 3br - 1200ft
-$975, (2120 Vermont Ave NW),/ 1br - 
-$1250, (Waldorf),/ 2br - 
-$2275, (Springfield),/ 1br - 
-$1625, (ALEXANDRIA/ FORT BELVOIR),/ 3br - 2100ft
-$900, (Woodbridge),/ 3br - 1612ft
-$3500, (Washington DC),/ 4br - 1384ft
-$920, (Reston Town Center),/ 3br - 1619ft
-$3500, (Logan Circle),/ 1br - 
-$2150, (Reston),/ 3br - 1619ft
-$2400, (Crystal City),/ 1br - 950ft
-$1933," (Ashburn, VA)",/ 4br - 2400ft
-$2499, (Herndon),/ 2br - 1290ft
-$3845, (Cathedral Heights),/ 2br - 820ft
-$1700, (Leesburg),/ 5br - 5165ft
-$1290," (Fairfax, VA)",/ 3br - 
-$1010, (Reston),/ 1br - 
-$1290, (Reston),/ 1br - 
-$700, (Manassas),/ 1br - 
-$1900, (Gaithersburg),/ 1br - 
-$1200, (Adams Morgan),/ 1br - 700ft
-$1900, (Herndon),/ 1br - 
-$1270, (Adams Morgan),/ 1br - 700ft
-$1168, (Georgetown),/ 2br - 
-$3600, (Leesburg),/ 1br - 735ft
-$3800, (Fairfax Dr. @ N. Harrison St.),/ 4br - 2000ft
-$1425," (North Arlington, 22207)",/ 5br - 3100ft
-$3189, (Arlington),/ 537ft
-$1483," (Bethesda, MD)",/ 2br - 1080ft
-$1433, (Manassas),/ 2br - 1273ft
-$1799, (Herndon/Dulles/Reston),/ 1br - 832ft
-$1600, (Falls Church),2br - 988ft
-$1300, (Cleveland Park),/ 1br - 710ft
-$830, (Falls Church),/ 1br - 600ft
-$1090, (H st NE Corridor),/ 1br - 820ft
-$1750, (Bowie),/ 2br - 
-$1499, (Cleveland Park),/ 2br - 
-$2050, (Lorton),/ 3br - 
-$1699, (Woodbridge),/ 2br - 945ft
-$1530, (Cardinal Forest),/ 3br - 1450ft
-$1999, (Woodley Park),/ 1br - 700ft
-$1535, (14005 Castle Blvd Apt 203),/ 2br - 1087ft
-$3500, (Washington),/ 1br - 595ft
-$3370, (Washington),/ 310ft
-$1145, (3030 K St NW 110PH),/ 795ft
-$850, (North Bethesda),/ 4br - 1400ft
-$975, (Lanier Heights),/ 2br - 
-$930, (Suitland),/ 2br - 
-$8974, (Arlington),/ 1br - 
-$3000, (Waldorf),/ 2br - 
-$1650, ,/ 2br - 
-$2750, (14th and U streets),/ 4br - 
-$1600, (Dupont Circle),/ 1br - 856ft
-$1695, (ROCKVILLE MD),/ 2br - 
-$2950, (4500 S FOUR MILE DR),/ 4br - 
-$2950, (Parkside Condo),/ 3br - 
-$1250, (Reston),/ 1br - 600ft
-$3500, (Petworth),/ 4br - 2500ft
-$1025, (Foxhall/Georgetown),/ 2br - 
-$1260, (Near West Beach Dr. NW),/ 1br - 
-$1550, (Chevy Chase),/ 2br - 1000ft
-$1118, (montgomery village),/ 1br - 675ft
-$2550," (Wiehle Metro, Reston)",/ 3br - 
-$3000, (Manassas),/ 4br - 1600ft
-$1445, ,/ 1br - 610ft
-$775, (Reston),/ 1br - 
+Price,Neighborhood,Size,Date Posted,Comment,Link
+$4500, (737 Girard St NW - Columbia Heights),/ 5br - 2100ft,Sep 4,"Columbia Heights 3BR + 2 Den, 2 BA, Grand Living Room and Deck + Yard","<span class=""pl""> <time datetime=""2015-09-04 19:16"" title=""Fri 04 Sep 07:16:07 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5190821271"" href=""/doc/apa/5190821271.html"">Columbia Heights 3BR + 2 Den, 2 BA, Grand Living Room and Deck + Yard</a> </span>"
+$3000," (Columbia Heights, Logan Circle, U St)",/ 2br - 1040ft,Sep 4,"Columbia Heights, U Street Metro, Outdoor space, W/D, 2 Baths","<span class=""pl""> <time datetime=""2015-09-04 15:20"" title=""Fri 04 Sep 03:20:24 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5176646052"" href=""/doc/apa/5176646052.html"">Columbia Heights, U Street Metro, Outdoor space, W/D, 2 Baths</a> </span>"
+$1950, (Columbia Heights),/ 1br - ,Sep 4,Renovated One-Bedroom in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-04 13:57"" title=""Fri 04 Sep 01:57:12 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5180313555"" href=""/doc/apa/5180313555.html"">Renovated One-Bedroom in Columbia Heights</a> </span>"
+$1306, (16th St/ short walk 2 Metro/ Columbia Heights / Adams Morgan),/ 1br - 770ft,Sep 4,True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan,"<span class=""pl""> <time datetime=""2015-09-04 13:19"" title=""Fri 04 Sep 01:19:13 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5206052495"" href=""/doc/apa/5206052495.html"">True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan</a> </span>"
+$1695, (Columbia Heights),/ 1br - 710ft,Sep 4,"Gorgeous Roof Deck! Columbia Heights lower level 1BR, all Util Incl","<span class=""pl""> <time datetime=""2015-09-04 13:00"" title=""Fri 04 Sep 01:00:02 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5199277573"" href=""/doc/apa/5199277573.html"">Gorgeous Roof Deck! Columbia Heights lower level 1BR, all Util Incl</a> </span>"
+$1995, (Columbia Heights),/ 405ft,Sep 4,Columbia Heights Renovated - Open House 9/5,"<span class=""pl""> <time datetime=""2015-09-04 12:07"" title=""Fri 04 Sep 12:07:01 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5205915706"" href=""/doc/apa/5205915706.html"">Columbia Heights Renovated - Open House 9/5</a> </span>"
+$1350, (Mt Pleasant/Columbia Heights),/ 405ft,Sep 4,Columbia Heights Studio available NOW!,"<span class=""pl""> <time datetime=""2015-09-04 11:58"" title=""Fri 04 Sep 11:58:21 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5205898700"" href=""/doc/apa/5205898700.html"">Columbia Heights Studio available NOW!</a> </span>"
+$1295, (Mt Pleasant/Columbia Heights),/ 2br - 850ft,Sep 4,Columbia Heights Studio available now!,"<span class=""pl""> <time datetime=""2015-09-04 11:56"" title=""Fri 04 Sep 11:56:35 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5205895192"" href=""/doc/apa/5205895192.html"">Columbia Heights Studio available now!</a> </span>"
+$2680, (Columbia Heights),/ 2br - 1150ft,Sep 4,Columbia Heights Condo w/ Parking Roof deck and More!,"<span class=""pl""> <time datetime=""2015-09-04 11:32"" title=""Fri 04 Sep 11:32:57 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5165709438"" href=""/doc/apa/5165709438.html"">Columbia Heights Condo w/ Parking Roof deck and More!</a> </span>"
+$3150," (U Street, Columbia Heights, NW, Shaw, 14)",/ 2br - 1000ft,Sep 4,"U Street, NW, Columbia Heights Metro, W/D, Garage, Balcony, 2 BATHS","<span class=""pl""> <time datetime=""2015-09-04 10:29"" title=""Fri 04 Sep 10:29:45 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5200959868"" href=""/doc/apa/5200959868.html"">U Street, NW, Columbia Heights Metro, W/D, Garage, Balcony, 2 BATHS</a> </span>"
+$2562, (Columbia Heights / Adams Morgan),/ 2br - 1200ft,Sep 4,HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-04 10:25"" title=""Fri 04 Sep 10:25:31 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5173323096"" href=""/doc/apa/5173323096.html"">HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights</a> </span>"
+$1306, (16th St/ short walk 2 Metro/ Columbia Heights / Adams Morgan),/ 5br - 2100ft,Sep 4,True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan,"<span class=""pl""> <time datetime=""2015-09-04 10:23"" title=""Fri 04 Sep 10:23:10 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5205715589"" href=""/doc/apa/5205715589.html"">True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan</a> </span>"
+$2600, (Columbia Heights / Adams Morgan),/ 2br - ,Sep 4,HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-04 10:19"" title=""Fri 04 Sep 10:19:00 AM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5182675957"" href=""/doc/apa/5182675957.html"">HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights</a> </span>"
+$4500, (737 Girard St NW - Columbia Heights),/ 2br - 1200ft,Sep 3,5 Bed 2FB Semi-Detached Townhouse in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 20:15"" title=""Thu 03 Sep 08:15:02 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5194100809"" href=""/doc/apa/5194100809.html"">5 Bed 2FB Semi-Detached Townhouse in Columbia Heights</a> </span>"
+$2200, (Columbia Heights),/ 540ft,Sep 3,2 Bedroom in Columbia Heights with Large Deck,"<span class=""pl""> <time datetime=""2015-09-03 20:07"" title=""Thu 03 Sep 08:07:59 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5201688362"" href=""/doc/apa/5201688362.html"">2 Bedroom in Columbia Heights with Large Deck</a> </span>"
+$1306, (16th St/ short walk 2 Metro/ Columbia Heights / Adams Morgan),/ 540ft,Sep 3,True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan,"<span class=""pl""> <time datetime=""2015-09-03 20:03"" title=""Thu 03 Sep 08:03:29 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5205124177"" href=""/doc/apa/5205124177.html"">True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan</a> </span>"
+$2600, (Columbia Heights / Adams Morgan),/ 540ft,Sep 3,"Huge 2BR with 2 full baths Short walk to METRO - Columbia Heights , Adams Morgan","<span class=""pl""> <time datetime=""2015-09-03 19:55"" title=""Thu 03 Sep 07:55:21 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5189038941"" href=""/doc/apa/5189038941.html"">Huge 2BR with 2 full baths Short walk to METRO - Columbia Heights , Adams Morgan</a> </span>"
+$1399, (Columbia Heights),/ 540ft,Sep 3,540 sq ft studio w.walk-in closet in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-03 19:16"" title=""Thu 03 Sep 07:16:28 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5175114269"" href=""/doc/apa/5175114269.html"">540 sq ft studio w.walk-in closet in Columbia Heights!</a> </span>"
+$1399, (Columbia Heights),/ 540ft,Sep 3,540 sq ft studio w.walk-in closet in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-03 19:17"" title=""Thu 03 Sep 07:17:46 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5182379704"" href=""/doc/apa/5182379704.html"">540 sq ft studio w.walk-in closet in Columbia Heights!</a> </span>"
+$1399, (Columbia Heights),/ 1br - 603ft,Sep 3,540 sq ft studio w.walk-in closet in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-03 19:15"" title=""Thu 03 Sep 07:15:44 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5199035590"" href=""/doc/apa/5199035590.html"">540 sq ft studio w.walk-in closet in Columbia Heights!</a> </span>"
+$1399, (Columbia Heights),/ 2br - 1250ft,Sep 3,540 sq ft studio w.walk-in closet in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-03 19:13"" title=""Thu 03 Sep 07:13:21 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5187763458"" href=""/doc/apa/5187763458.html"">540 sq ft studio w.walk-in closet in Columbia Heights!</a> </span>"
+$1399, (Columbia Heights),/ 4br - 3000ft,Sep 3,Spacious studio w/walk in closet in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-03 19:10"" title=""Thu 03 Sep 07:10:45 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5200786582"" href=""/doc/apa/5200786582.html"">Spacious studio w/walk in closet in Columbia Heights!</a> </span>"
+$1540, (Columbia Heights),/ 2br - 1213ft,Sep 3,Fantastic 1 Bedroom in vibrant Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 18:18"" title=""Thu 03 Sep 06:18:18 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204992151"" href=""/doc/apa/5204992151.html"">Fantastic 1 Bedroom in vibrant Columbia Heights</a> </span>"
+$2400, (Columbia Heights),/ 2br - 1000ft,Sep 3,Two bed room house - Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 17:14"" title=""Thu 03 Sep 05:14:38 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204894746"" href=""/doc/apa/5204894746.html"">Two bed room house - Columbia Heights</a> </span>"
+$4300, (columbia heights),/ 2br - 1073ft,Sep 3,Fabulous 4 bdr home in columbia heights,"<span class=""pl""> <time datetime=""2015-09-03 16:28"" title=""Thu 03 Sep 04:28:26 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5195483352"" href=""/doc/apa/5195483352.html"">Fabulous 4 bdr home in columbia heights</a> </span>"
+$2795, (Columbia Heights),/ 2br - 1150ft,Sep 3,2 bedroom in great location - Columbia Heights *one month free,"<span class=""pl""> <time datetime=""2015-09-03 14:40"" title=""Thu 03 Sep 02:40:38 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204623496"" href=""/doc/apa/5204623496.html"">2 bedroom in great location - Columbia Heights *one month free</a> </span>"
+$2100, (11th Street NW/ Columbia Heights/ Adam Morgan/ U Street),/ 2br - 150ft,Sep 3,HUGE BEAUTIFUL COLUMBIA HEIGHTS 2BR/1BA w/ UTILITIES INCLUDED!,"<span class=""pl""> <time datetime=""2015-09-03 12:53"" title=""Thu 03 Sep 12:53:55 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5183308241"" href=""/doc/apa/5183308241.html"">HUGE BEAUTIFUL COLUMBIA HEIGHTS 2BR/1BA w/ UTILITIES INCLUDED!</a> </span>"
+$1240, (Columbia Heights),/ 2br - 1200ft,Sep 3,"Great Furnished studio, walking distance to Columbia Heights Metro","<span class=""pl""> <time datetime=""2015-09-03 12:26"" title=""Thu 03 Sep 12:26:33 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204371789"" href=""/doc/apa/5204371789.html"">Great Furnished studio, walking distance to Columbia Heights Metro</a> </span>"
+$3150, (Columbia Heights NW DC),/ 2br - ,Sep 3,Luxury 2 Bedroom/2 Bath Available Now Above the Columbia Heights Metro!,"<span class=""pl""> <time datetime=""2015-09-03 11:58"" title=""Thu 03 Sep 11:58:53 AM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204289106"" href=""/doc/apa/5204289106.html"">Luxury 2 Bedroom/2 Bath Available Now Above the Columbia Heights Metro!</a> </span>"
+$3150," (U Street NW, Columbia Heights, 14th St)",/ 1br - ,Sep 3,"Walk to U Street metro, Columbia Heights, W/D in-unit, Balcony, Garage","<span class=""pl""> <time datetime=""2015-09-03 10:14"" title=""Thu 03 Sep 10:14:52 AM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5192257186"" href=""/doc/apa/5192257186.html"">Walk to U Street metro, Columbia Heights, W/D in-unit, Balcony, Garage</a> </span>"
+$2200, (Harvard Street NW between 14 and 13 NW),/ 2br - 1040ft,Sep 3,2 Bedroom-columbia Heights-Great Location and Price,"<span class=""pl""> <time datetime=""2015-09-03 01:01"" title=""Thu 03 Sep 01:01:37 AM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5186734175"" href=""/doc/apa/5186734175.html"">2 Bedroom-columbia Heights-Great Location and Price</a> </span>"
+$1356, (16th St/ short walk 2 Metro/ Columbia Heights / Adams Morgan),/ 2br - ,Sep 2,True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan,"<span class=""pl""> <time datetime=""2015-09-02 21:30"" title=""Wed 02 Sep 09:30:26 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203630356"" href=""/doc/apa/5203630356.html"">True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan</a> </span>"
+$2600, (Columbia Heights / Adams Morgan),/ 2br - 1031ft,Sep 2,HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-02 21:21"" title=""Wed 02 Sep 09:21:03 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5171049124"" href=""/doc/apa/5171049124.html"">HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights</a> </span>"
+$2850, (Columbia Heights),/ 2br - 850ft,Sep 2,Walk to Columbia Heights Metro - Open Floor Plan! Massive Gym!,"<span class=""pl""> <time datetime=""2015-09-02 20:05"" title=""Wed 02 Sep 08:05:04 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5192669134"" href=""/doc/apa/5192669134.html"">Walk to Columbia Heights Metro - Open Floor Plan! Massive Gym!</a> </span>"
+$1225, (Columbia Heights),/ 2br - 1150ft,Sep 2,Spacious English basement apartment in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-02 19:57"" title=""Wed 02 Sep 07:57:03 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203526565"" href=""/doc/apa/5203526565.html"">Spacious English basement apartment in Columbia Heights</a> </span>"
+$1075, (Columbia Heights),/ 405ft,Sep 2,Columbia Heights Bedroom with Shared Bathroom,"<span class=""pl""> <time datetime=""2015-09-02 19:05"" title=""Wed 02 Sep 07:05:19 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5179670393"" href=""/doc/apa/5179670393.html"">Columbia Heights Bedroom with Shared Bathroom</a> </span>"
+$3000," (U Street, Columbia Heights, U St)",/ 1br - 650ft,Sep 2,"Columbia Heights, U Street, W/D, Balcony, Roof-deck, 2 Baths","<span class=""pl""> <time datetime=""2015-09-02 18:00"" title=""Wed 02 Sep 06:00:00 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5179976421"" href=""/doc/apa/5179976421.html"">Columbia Heights, U Street, W/D, Balcony, Roof-deck, 2 Baths</a> </span>"
+$2300, (Columbia Heights),/ 1br - 710ft,Sep 2,Columbia Heights 2 BD/1.5 BA for Rent $2300,"<span class=""pl""> <time datetime=""2015-09-02 17:18"" title=""Wed 02 Sep 05:18:58 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203296247"" href=""/doc/apa/5203296247.html"">Columbia Heights 2 BD/1.5 BA for Rent $2300</a> </span>"
+$3000, (Columbia Heights),/ 2br - ,Sep 2,2 Bedroom Apt next to Columbia Heights Metro,"<span class=""pl""> <time datetime=""2015-09-02 16:37"" title=""Wed 02 Sep 04:37:24 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203225417"" href=""/doc/apa/5203225417.html"">2 Bedroom Apt next to Columbia Heights Metro</a> </span>"
+$2400, (Columbia Heights),/ 1br - 750ft,Sep 2,Beautiful 2 BR / 2 BA Apt in Columbia Heights - Available IMMEDIATELY,"<span class=""pl""> <time datetime=""2015-09-02 12:17"" title=""Wed 02 Sep 12:17:19 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5202716580"" href=""/doc/apa/5202716580.html"">Beautiful 2 BR / 2 BA Apt in Columbia Heights - Available IMMEDIATELY</a> </span>"
+$3150," (U Street, Columbia Heights, 14th, Shaw)",/ 2br - 800ft,Sep 2,"U Street METRO, Columbia Heights, U St, Balcony, Garage, 14th","<span class=""pl""> <time datetime=""2015-09-02 09:29"" title=""Wed 02 Sep 09:29:19 AM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5202417330"" href=""/doc/apa/5202417330.html"">U Street METRO, Columbia Heights, U St, Balcony, Garage, 14th</a> </span>"
+$1295, (Mt Pleasant/Columbia Heights),/ 1br - ,Sep 2,Columbia Heights Studio available now!,"<span class=""pl""> <time datetime=""2015-09-02 09:16"" title=""Wed 02 Sep 09:16:23 AM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5202400530"" href=""/doc/apa/5202400530.html"">Columbia Heights Studio available now!</a> </span>"
+$1280, (16th St / walk to Metro / Columbia Heights / Adams Morgan),/ 1br - 720ft,Sep 1,True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan,"<span class=""pl""> <time datetime=""2015-09-01 22:33"" title=""Tue 01 Sep 10:33:18 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5154354225"" href=""/doc/apa/5154354225.html"">True VALUE Incredible LOCATION in Columbia Heights near Adams Morgan</a> </span>"
+$2250, (Columbia Heights),/ 2br - ,Sep 1,1 Bedroom Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 20:36"" title=""Tue 01 Sep 08:36:16 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201905548"" href=""/doc/apa/5201905548.html"">1 Bedroom Columbia Heights</a> </span>"
+$1995, (Columbia Heights),/ 2br - 1050ft,Sep 1,Modern Updated 1 Bedroom in Heart of Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 20:05"" title=""Tue 01 Sep 08:05:16 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5183447436"" href=""/doc/apa/5183447436.html"">Modern Updated 1 Bedroom in Heart of Columbia Heights</a> </span>"
+$1150, (Columbia Heights),/ 2br - ,Sep 1,Great furnished basement studio very close to Columbia Heights metro,"<span class=""pl""> <time datetime=""2015-09-01 17:25"" title=""Tue 01 Sep 05:25:09 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5190411592"" href=""/doc/apa/5190411592.html"">Great furnished basement studio very close to Columbia Heights metro</a> </span>"
+$1260, (Columbia Heights),/ 2br - 1200ft,Sep 1,Great furnished studio 2 blocks to Columbia Heights metro,"<span class=""pl""> <time datetime=""2015-09-01 17:25"" title=""Tue 01 Sep 05:25:01 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201626168"" href=""/doc/apa/5201626168.html"">Great furnished studio 2 blocks to Columbia Heights metro</a> </span>"
+$2550, (Columbia Heights),/ 1br - 550ft,Sep 1,"Columbia Heights 2-BR Apt, 1 block from Metro - OPEN HOUSE 9/5, 1-3pm","<span class=""pl""> <time datetime=""2015-09-01 15:53"" title=""Tue 01 Sep 03:53:11 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201462850"" href=""/doc/apa/5201462850.html"">Columbia Heights 2-BR Apt, 1 block from Metro - OPEN HOUSE 9/5, 1-3pm</a> </span>"
+$1300, (Columbia Heights),/ 1br - 1000ft,Sep 1,Room in 2BR/1BA Luxury Building Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 13:00"" title=""Tue 01 Sep 01:00:24 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201094074"" href=""/doc/apa/5201094074.html"">Room in 2BR/1BA Luxury Building Columbia Heights</a> </span>"
+$2650, (Columbia Heights),/ 1br - 550ft,Sep 1,Spacious Two Bedroom Apartment in Lovely Columbia Heights!,"<span class=""pl""> <time datetime=""2015-09-01 11:20"" title=""Tue 01 Sep 11:20:25 AM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5157902939"" href=""/doc/apa/5157902939.html"">Spacious Two Bedroom Apartment in Lovely Columbia Heights!</a> </span>"
+$1500, (Columbia Heights),/ 2br - 1000ft,Sep 1,Columbia Heights 1br English Basement Apt,"<span class=""pl""> <time datetime=""2015-09-01 09:54"" title=""Tue 01 Sep 09:54:22 AM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5200764228"" href=""/doc/apa/5200764228.html"">Columbia Heights 1br English Basement Apt</a> </span>"
+$1500, (Columbia Heights),/ 1br - ,Aug 31,Columbia Heights 1 Bed 1 bath - 1.5 blks to Metro,"<span class=""pl""> <time datetime=""2015-08-31 20:36"" title=""Mon 31 Aug 08:36:31 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5155392347"" href=""/doc/apa/5155392347.html"">Columbia Heights 1 Bed 1 bath - 1.5 blks to Metro</a> </span>"
+$2750, (Columbia Heights / Adams Morgan),/ 2br - 1250ft,Aug 31,"* 1 Mo FREE * - short walk to METRO -Columbia Heights , Adams Morgan","<span class=""pl""> <time datetime=""2015-08-31 14:58"" title=""Mon 31 Aug 02:58:23 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5195184060"" href=""/doc/apa/5195184060.html"">* 1 Mo FREE * - short walk to METRO -Columbia Heights , Adams Morgan</a> </span>"
+$2950, (Columbia Heights),/ 1br - 750ft,Aug 31,Chic and modern living in Columbia Heights!,"<span class=""pl""> <time datetime=""2015-08-31 14:33"" title=""Mon 31 Aug 02:33:09 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5173807022"" href=""/doc/apa/5173807022.html"">Chic and modern living in Columbia Heights!</a> </span>"
+$2300, (Columbia Heights),/ 2br - 800ft,Aug 31,Columbia Heights 2 BD/1.5 BA for Rent $2300,"<span class=""pl""> <time datetime=""2015-08-31 14:23"" title=""Mon 31 Aug 02:23:52 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5199589090"" href=""/doc/apa/5199589090.html"">Columbia Heights 2 BD/1.5 BA for Rent $2300</a> </span>"
+$2521, (Columbia Heights / Adams Morgan),/ 2br - 800ft,Aug 31,HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights,"<span class=""pl""> <time datetime=""2015-08-31 11:53"" title=""Mon 31 Aug 11:53:48 AM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5195197284"" href=""/doc/apa/5195197284.html"">HUGE 2BR w/ 2 full baths - Adams Morgan short walk to Columbia Heights</a> </span>"
+$1200, (Columbia Heights),/ 540ft,Aug 31,One Bedroom In Great Columbia Heights Location,"<span class=""pl""> <time datetime=""2015-08-31 11:27"" title=""Mon 31 Aug 11:27:48 AM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5199228558"" href=""/doc/apa/5199228558.html"">One Bedroom In Great Columbia Heights Location</a> </span>"
+$2265, (Columbia Heights),/ 540ft,Aug 31,COLUMBIA HEIGHTS-Large 1 Bedroom w/parking,"<span class=""pl""> <time datetime=""2015-08-31 09:37"" title=""Mon 31 Aug 09:37:40 AM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5199037611"" href=""/doc/apa/5199037611.html"">COLUMBIA HEIGHTS-Large 1 Bedroom w/parking</a> </span>"
+$1550, (NW DC),/ 1br - 600ft,Sep 4,1 Bedroom in Columbia Heights/ Park View,"<span class=""pl""> <time datetime=""2015-09-04 17:19"" title=""Fri 04 Sep 05:19:29 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5199681855"" href=""/doc/apa/5199681855.html"">1 Bedroom in Columbia Heights/ Park View</a> </span>"
+$3200," (U Street, NW 14th St, Shaw, Columbia)",/ 1br - 600ft,Sep 4,"U Street, Metro, Columbia Heights, W/D, Roof Deck, Garage Parking","<span class=""pl""> <time datetime=""2015-09-04 15:19"" title=""Fri 04 Sep 03:19:01 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5200728531"" href=""/doc/apa/5200728531.html"">U Street, Metro, Columbia Heights, W/D, Roof Deck, Garage Parking</a> </span>"
+$1378," (1429 Belmont St, NW)",/ 1br - ,Sep 4,"1 Bedroom Apartment in Columbia Heights - 1429 Belmont St, NW","<span class=""pl""> <time datetime=""2015-09-04 14:20"" title=""Fri 04 Sep 02:20:17 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5206169430"" href=""/doc/apa/5206169430.html"">1 Bedroom Apartment in Columbia Heights - 1429 Belmont St, NW</a> </span>"
+$2000, (1031 Park Rd NW),/ 1br - 600ft,Sep 4,$2000 Columbia Heights 2 Bed English Basement,"<span class=""pl""> <time datetime=""2015-09-04 12:45"" title=""Fri 04 Sep 12:45:54 PM"">Sep 4</time> <a class=""hdrlnk"" data-id=""5205989637"" href=""/doc/apa/5205989637.html"">$2000 Columbia Heights 2 Bed English Basement</a> </span>"
+$2999, (Columbia Heights),/ 1br - 600ft,Aug 30,Lovely FULLY FURNISHED Columbia Heights Bright 1 Bedroom + DECK,"<span class=""pl""> <time datetime=""2015-08-30 13:01"" title=""Sun 30 Aug 01:01:16 PM"">Aug 30</time> <a class=""hdrlnk"" data-id=""5197872197"" href=""/doc/apa/5197872197.html"">Lovely FULLY FURNISHED Columbia Heights Bright 1 Bedroom + DECK</a> </span>"
+$2650, (2325 13th St NW),/ 2br - 900ft,Sep 3,Columbia Heights 2BR 2BA Modern Condo Avail Now for 1 or 2 Year Lease,"<span class=""pl""> <time datetime=""2015-09-03 20:15"" title=""Thu 03 Sep 08:15:35 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5173293495"" href=""/doc/apa/5173293495.html"">Columbia Heights 2BR 2BA Modern Condo Avail Now for 1 or 2 Year Lease</a> </span>"
+$2650, (2325 13th St NW),/ 2br - 1000ft,Sep 3,"Columbia Heights 2BR 2BA Modern Condo Avail Now, 1 Car Garage","<span class=""pl""> <time datetime=""2015-09-03 20:05"" title=""Thu 03 Sep 08:05:48 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5179460713"" href=""/doc/apa/5179460713.html"">Columbia Heights 2BR 2BA Modern Condo Avail Now, 1 Car Garage</a> </span>"
+$1399, (Tivoli Gardens),/ 1br - ,Sep 3,Available NOW! Large studio near Columbia Heights metro,"<span class=""pl""> <time datetime=""2015-09-03 19:19"" title=""Thu 03 Sep 07:19:14 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5194479038"" href=""/doc/apa/5194479038.html"">Available NOW! Large studio near Columbia Heights metro</a> </span>"
+$1399," (Washington, DC)",/ 1br - 600ft,Sep 3,Very spacious studio 5 blocks from Columbia Heights metro!,"<span class=""pl""> <time datetime=""2015-09-03 19:14"" title=""Thu 03 Sep 07:14:36 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5168764869"" href=""/doc/apa/5168764869.html"">Very spacious studio 5 blocks from Columbia Heights metro!</a> </span>"
+$1200, (Columbia Heights),/ 2br - 1150ft,Aug 30,One Bedroom In Great Columbia Heights Location,"<span class=""pl""> <time datetime=""2015-08-30 08:01"" title=""Sun 30 Aug 08:01:27 AM"">Aug 30</time> <a class=""hdrlnk"" data-id=""5197523065"" href=""/doc/apa/5197523065.html"">One Bedroom In Great Columbia Heights Location</a> </span>"
+$1515," (DC, Off 16th Street)",/ 1br - 600ft,Sep 3,"Visit Your New Home, Laundry On Site, Walk to Columbia Heights Metro","<span class=""pl""> <time datetime=""2015-09-03 15:25"" title=""Thu 03 Sep 03:25:42 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204706690"" href=""/doc/apa/5204706690.html"">Visit Your New Home, Laundry On Site, Walk to Columbia Heights Metro</a> </span>"
+$1450," (1476 Newton St., NW)",/ 1br - 550ft,Sep 3,Spacious One Bedroom in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 14:19"" title=""Thu 03 Sep 02:19:48 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204584674"" href=""/doc/apa/5204584674.html"">Spacious One Bedroom in Columbia Heights</a> </span>"
+$1515," (DC, Off 16th Street)",/ 1br - 600ft,Sep 3,"Come Look and Lease, Walk to Columbia Heights Metro, Laundry On Site","<span class=""pl""> <time datetime=""2015-09-03 12:46"" title=""Thu 03 Sep 12:46:13 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204408787"" href=""/doc/apa/5204408787.html"">Come Look and Lease, Walk to Columbia Heights Metro, Laundry On Site</a> </span>"
+$1515," (DC, Off 16th Street)",/ 5br - 3500ft,Sep 3,"Lease Today, Walk to Columbia Heights Metro, Laundry On Site","<span class=""pl""> <time datetime=""2015-09-03 12:47"" title=""Thu 03 Sep 12:47:41 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204411582"" href=""/doc/apa/5204411582.html"">Lease Today, Walk to Columbia Heights Metro, Laundry On Site</a> </span>"
+$2450, (725 Hobart Pl NW),/ 2br - ,Sep 3,Brand New 2Bed-2Bth Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 12:31"" title=""Thu 03 Sep 12:31:42 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204360863"" href=""/doc/apa/5204360863.html"">Brand New 2Bed-2Bth Columbia Heights</a> </span>"
+$3200," (U Street, NW, 14th St, Shaw)",/ 1br - 700ft,Sep 3,"U Street, 14th St, Columbia Heights, W/D Roof Deck, Garage Parking","<span class=""pl""> <time datetime=""2015-09-03 12:01"" title=""Thu 03 Sep 12:01:52 PM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204309712"" href=""/doc/apa/5204309712.html"">U Street, 14th St, Columbia Heights, W/D Roof Deck, Garage Parking</a> </span>"
+$1699, (1610 Park Rd NW),/ 3br - 2000ft,Sep 3,Beautiful 1 bedroom apartment in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-03 11:24"" title=""Thu 03 Sep 11:24:05 AM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5200728477"" href=""/doc/apa/5200728477.html"">Beautiful 1 bedroom apartment in Columbia Heights</a> </span>"
+$1850, (14th St & Columbia Rd),/ 4br - 2000ft,Sep 3,"Sunny, Modern 1 bedroom 1 block from Columbia Heights Metro","<span class=""pl""> <time datetime=""2015-09-03 09:14"" title=""Thu 03 Sep 09:14:06 AM"">Sep 3</time> <a class=""hdrlnk"" data-id=""5204049329"" href=""/doc/apa/5204049329.html"">Sunny, Modern 1 bedroom 1 block from Columbia Heights Metro</a> </span>"
+$3150," (U Street, NW, 14th St, Shaw)",/ 2br - 693ft,Sep 2,"U Street, U St NW, Columbia Heights - W/D - Balcony - Garage","<span class=""pl""> <time datetime=""2015-09-02 22:36"" title=""Wed 02 Sep 10:36:15 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203709079"" href=""/doc/apa/5203709079.html"">U Street, U St NW, Columbia Heights - W/D - Balcony - Garage</a> </span>"
+$1500, (Park View),/ 2br - 800ft,Sep 2,"Just Renovated! Walk to Metro, Petworth, Columbia Heights, Howard U!","<span class=""pl""> <time datetime=""2015-09-02 15:40"" title=""Wed 02 Sep 03:40:44 PM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5203121189"" href=""/doc/apa/5203121189.html"">Just Renovated! Walk to Metro, Petworth, Columbia Heights, Howard U!</a> </span>"
+$1200, (Columbia Heights),/ 3br - ,Aug 29,One Bedroom In Great Columbia Heights Location,"<span class=""pl""> <time datetime=""2015-08-29 08:12"" title=""Sat 29 Aug 08:12:59 AM"">Aug 29</time> <a class=""hdrlnk"" data-id=""5196052702"" href=""/doc/apa/5196052702.html"">One Bedroom In Great Columbia Heights Location</a> </span>"
+$1500, (Columbia Heights),/ 2br - 1050ft,Aug 29,Brand new renovation in Columbia Heights- $1500,"<span class=""pl""> <time datetime=""2015-08-29 08:14"" title=""Sat 29 Aug 08:14:30 AM"">Aug 29</time> <a class=""hdrlnk"" data-id=""5196053870"" href=""/doc/apa/5196053870.html"">Brand new renovation in Columbia Heights- $1500</a> </span>"
+$6999, (COLUMBIA HEIGHTS),/ 1br - 600ft,Sep 2,HUGE Columbia Heights HOUSE 5-6 bedrooms/3.5ba & Deck,"<span class=""pl""> <time datetime=""2015-09-02 10:24"" title=""Wed 02 Sep 10:24:47 AM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5197873031"" href=""/doc/apa/5197873031.html"">HUGE Columbia Heights HOUSE 5-6 bedrooms/3.5ba &amp; Deck</a> </span>"
+$2650, (NW DC),/ 1br - ,Sep 2,"For rent, 2 Brs apartments in Columbia Heights","<span class=""pl""> <time datetime=""2015-09-02 08:18"" title=""Wed 02 Sep 08:18:03 AM"">Sep 2</time> <a class=""hdrlnk"" data-id=""5202332088"" href=""/doc/apa/5202332088.html"">For rent, 2 Brs apartments in Columbia Heights</a> </span>"
+$1900," (Washington, DC)",/ 1br - ,Sep 1,Beautiful and Modern 1 br/1 ba Apt. in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 20:31"" title=""Tue 01 Sep 08:31:31 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201899539"" href=""/doc/apa/5201899539.html"">Beautiful and Modern 1 br/1 ba Apt. in Columbia Heights</a> </span>"
+$2550," (4102 14th Street, NW# 2)",/ 2br - ,Sep 1,WATER INCLUDED!! NW Spacious Remodeled 3 bdr in N. Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 19:17"" title=""Tue 01 Sep 07:17:34 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201793432"" href=""/doc/apa/5201793432.html"">WATER INCLUDED!! NW Spacious Remodeled 3 bdr in N. Columbia Heights</a> </span>"
+$2550," (4102 14th Street, NW#1)",/ 1br - 650ft,Sep 1,WATER INCLUDED!! NW Spacious Remodeled 4 bdr in N. Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 19:16"" title=""Tue 01 Sep 07:16:33 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5201798921"" href=""/doc/apa/5201798921.html"">WATER INCLUDED!! NW Spacious Remodeled 4 bdr in N. Columbia Heights</a> </span>"
+$2100, (1439 Spring Road),/ 1br - 600ft,Sep 1,Great Unit in Columbia Heights,"<span class=""pl""> <time datetime=""2015-09-01 13:31"" title=""Tue 01 Sep 01:31:05 PM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5190070542"" href=""/doc/apa/5190070542.html"">Great Unit in Columbia Heights</a> </span>"
+$2650, (13th & Euclid St NW),/ 2br - 900ft,Sep 1,2535 13th St NW #205 - Columbia Heights/ U St 2BR 2BA w Parking,"<span class=""pl""> <time datetime=""2015-09-01 10:03"" title=""Tue 01 Sep 10:03:44 AM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5156693407"" href=""/doc/apa/5156693407.html"">2535 13th St NW #205 - Columbia Heights/ U St 2BR 2BA w Parking</a> </span>"
+$3100, (NW DC),/ 2br - 900ft,Sep 1,"For rent, 3 Br apartments in Columbia Heights","<span class=""pl""> <time datetime=""2015-09-01 09:40"" title=""Tue 01 Sep 09:40:02 AM"">Sep 1</time> <a class=""hdrlnk"" data-id=""5189524689"" href=""/doc/apa/5189524689.html"">For rent, 3 Br apartments in Columbia Heights</a> </span>"
+$2200, (HARVARD ST. NW & 14 th ST. NW),/ 495ft,Aug 31,2 Bedroom Apartment-Great Location and Price Columbia Heights,"<span class=""pl""> <time datetime=""2015-08-31 23:07"" title=""Mon 31 Aug 11:07:16 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5175914360"" href=""/doc/apa/5175914360.html"">2 Bedroom Apartment-Great Location and Price Columbia Heights</a> </span>"
+$1850, (14th & Columbia Rd),/ 3br - 1200ft,Aug 31,"Bright, Modern 1 bedroom 1 block from Columbia Heights Metro","<span class=""pl""> <time datetime=""2015-08-31 20:54"" title=""Mon 31 Aug 08:54:04 PM"">Aug 31</time> <a class=""hdrlnk"" data-id=""5200238576"" href=""/doc/apa/5200238576.html"">Bright, Modern 1 bedroom 1 block from Columbia Heights Metro</a> </span>"
