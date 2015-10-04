@@ -11,13 +11,14 @@ import datetime
 import re
 import os
 
+
 #Urls for scraping- one for each DC neighborhood.
 CH_url = "https://washingtondc.craigslist.org/search/apa?query=Columbia%20Heights&s=0"
 AM_url = "https://washingtondc.craigslist.org/search/apa?query=Adams%20Morgan&s=0"
 
 #Retrieves year, month, day
 now = datetime.datetime.now().timetuple()
-year_month_day = (now.tm_year, now.tm_mon, now.tm_mday)
+year_month_day = [now.tm_year, now.tm_mon, now.tm_mday]
 
 def scraper(url):
 
@@ -84,7 +85,7 @@ def scraper(url):
         else:
             csv_out.writerow(["Price", "Neighborhood", "Size", "Date Posted", "Comment", "Link", "ID", "Retrieval_Year", "Retrieval_Month", "Retrieval_Day"])
         for row in data:
-            csv_out.writerow(row + year_month_day)
+            csv_out.writerow(map(clean_any, row) + year_month_day)
             
 #list_maker creates a list of urls for each page of the query to be used by the scraper
 def list_maker(url):
@@ -111,10 +112,16 @@ def list_maker(url):
         
     return url_list
     #print url_list
-        
-for item in list_maker(CH_url):
-    scraper(CH_url)
-#    time.sleep(10)
+
+
+def clean_str(string):
+    return unicode(string).encode('utf-8')
+
+
+def clean_any(anything):
+    return clean_str(anything) if isinstance(anything, basestring) else anything
+    
+# #    time.sleep(10)
 
 for item in list_maker(AM_url):
     scraper(AM_url)
