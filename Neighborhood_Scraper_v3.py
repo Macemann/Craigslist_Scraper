@@ -15,7 +15,6 @@ import os
 CH_url = "https://washingtondc.craigslist.org/search/apa?query=Columbia%20Heights&s=0"
 AM_url = "https://washingtondc.craigslist.org/search/apa?query=Adams%20Morgan&s=0"
 
-
 #Retrieves year, month, day
 now = datetime.datetime.now().timetuple()
 year_month_day = [now.tm_year, now.tm_mon, now.tm_mday]
@@ -27,9 +26,9 @@ def scraper(url):
     r = requests.get(url)
 
     soup = BeautifulSoup(r.content, "lxml")
-    
+
     #Gets the total count of postings, to be used by the counter
-    total_count = soup.find("span", {"class": "totalcount"}).contents[0]
+    #total_count = soup.find("span", {"class": "totalcount"}).contents[0]
 
     #Writes desired content (price, neighborhood, etc.) to a list
 
@@ -43,14 +42,14 @@ def scraper(url):
     for neighborhood in data2:
         neighborhood = neighborhood.contents[3]
         neighborhood = re.sub(r'.*value="(.*)".*', r'\1', str(neighborhood))
-        neighborhood_data.append(neighborhood)    
-        
-    #neighborhood_data = []
-    #data2 = soup.find_all("span", {"class": "pnr"})
-    #for neighborhood in data2:
-    #    neighborhood_data.append(neighborhood.contents[1].contents[0])
+        neighborhood_data.append(neighborhood)
 
-    
+#    neighborhood_data = []
+#    data2 = soup.find_all("span", {"class": "pnr"})
+#    for neighborhood in data2:
+#        neighborhood_data.append(neighborhood.contents[1].contents[0])
+
+
     br_data = []
     sqft_data = []
     data3 = soup.find_all("span", {"class": "housing"})
@@ -89,7 +88,7 @@ def scraper(url):
     data6 = soup.find_all("span", {"class": "pl"})
     for link in data6:
         baselink = url[:35]
-        link = re.sub(r'.*(/doc.*)\.html.*', baselink + r'\1' + r'.html', str(link))
+        link = re.sub(r'.*([\d]{10}).*', baselink + r'/doc/apa/'+ r'\1' + r'.html', str(link))
         link_data.append(link)
 
     #Like above, except this strips away all other content to provide just the ID number
@@ -113,9 +112,9 @@ def scraper(url):
             csv_out.writerow(["Neighborhood", "Price", "Bedrooms", "Sqft", "Date Posted", "Comment", "Link", "ID", "Retrieval_Year", "Retrieval_Month", "Retrieval_Day"])
             for row in data:
                 csv_out.writerow(neighborhood_data + map(clean_any, row) + year_month_day)
-    
-    
-    
+
+
+
 #    with open("scraper_output.csv", "ab") as output:
 #        csv_out = csv.writer(output)
 #        if os.path.exists("scraper_output.csv"):
@@ -129,24 +128,24 @@ def scraper(url):
 
 #list_maker creates a list of urls for each page of the query to be used by the scraper
 def list_maker(url):
-    
+
     counter = 0
     r = requests.get(url)
 
     soup = BeautifulSoup(r.content, "lxml")
-    
+
     #Gets the total count of postings, to be used with the counter
     total_count = soup.find("span", {"class": "totalcount"}).contents[0]
-    
+
     page_number = (int(total_count) / 100) + 1
-    
+
     #takes base url and creates a list of all pages of the query
     url_list = []
     while counter < (int(total_count)):
-        url_page = url + str(counter)
+        url_page = url[:-1] + str(counter)
         counter += 100
         url_list.append(url_page)
-        
+
     return url_list
     #print url_list
 
@@ -157,12 +156,12 @@ def clean_str(string):
 
 def clean_any(anything):
     return clean_str(anything) if isinstance(anything, basestring) else anything
-    
-# #    time.sleep(10)
+
 
 for item in list_maker(AM_url):
-    scraper(AM_url)
-    
+    scraper(item)
+#    time.sleep(10)
+
 for item in list_maker(CH_url):
-    scraper(CH_url)
+    scraper(item)
 #    time.sleep(10)
