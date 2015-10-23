@@ -1,0 +1,99 @@
+[
+  {
+    "aliases": [],
+    "id": 0,
+    "desc": "Adams Morgan"
+  },
+  {
+    "aliases": [],
+    "id": 1,
+    "desc": "Anacostia"
+  },
+  {
+    "aliases": [
+      "U Street",
+      "Shaw"
+    ],
+    "id": 2,
+    "desc": "Arts District"
+  },
+  {
+    "aliases": [],
+    "id": 3,
+    "desc": "Brookland"
+  },
+  {
+    "aliases": [],
+    "id": 4,
+    "desc": "Capitol Hill"
+  },
+  {
+    "aliases": [],
+    "id": 5,
+    "desc": "Capitol Riverfront"
+  },
+  {
+    "aliases": [
+      "14th Street"
+    ],
+    "id": 6,
+    "desc": "Columbia Heights"
+  },
+  {
+    "aliases": [
+      "Penn Quarter",
+      "Chinatown"
+    ],
+    "id": 7,
+    "desc": "Downtown"
+  },
+  {
+    "aliases": [],
+    "id": 8,
+    "desc": "Dupont Circle"
+  },
+  {
+    "aliases": [],
+    "id": 9,
+    "desc": "Foggy Bottom"
+  },
+  {
+    "aliases": [],
+    "id": 10,
+    "desc": "Georgetown"
+  },
+  {
+    "aliases": [],
+    "id": 11,
+    "desc": "H Street Corridor"
+  },
+  {
+    "aliases": [],
+    "id": 12,
+    "desc": "Logan Circle"
+  },
+  {
+    "aliases": [],
+    "id": 13,
+    "desc": "NoMa"
+  },
+  {
+    "aliases": [],
+    "id": 14,
+    "desc": "Southwest Waterfront"
+  },
+  {
+    "aliases": [
+      "National Cathedral"
+    ],
+    "id": 15,
+    "desc": "Upper Northwest"
+  },
+  {
+    "aliases": [
+      "Cleveland Park"
+    ],
+    "id": 16,
+    "desc": "Woodley Park"
+  }
+]

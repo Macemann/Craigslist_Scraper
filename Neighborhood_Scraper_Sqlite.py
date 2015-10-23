@@ -11,6 +11,7 @@ import re
 import os
 import sqlite3 as lite
 import sys
+import json
 
 #Urls for scraping- one for each DC neighborhood.
 neighborhoods = {
@@ -18,7 +19,32 @@ neighborhoods = {
 "AM_url" : "https://washingtondc.craigslist.org/search/apa?query=Adams%20Morgan&s=0"
 }
 
-con = lite.connect('test.db')
+#Retrieves neighborhood names and urls as a dictionary from json file
+def json_reader(jsondata):
+
+    with open('neighborhoods.json') as json_data:
+        d = json.load(json_data)
+
+    neighborhoods = []
+    for item in d:
+        for items in item['aliases']:
+            neighborhoods.append(items)
+    for item in d:
+        neighborhoods.append(item['desc'])
+    
+    neighborhood_urls = []
+    for item in neighborhoods:
+        item = re.sub(r" ","%20",str(item))
+        item = re.sub(r"(.*)","https://washingtondc.craigslist.org/search/apa?query="+r"\1"+"&s=0",str(item))
+        neighborhood_urls.append(item)
+
+    neighborhood_dic = dict(zip(neighborhoods, neighborhood_urls))
+
+    return neighborhood_dic
+
+
+
+con = lite.connect('canimakeit.db')
 cur = con.cursor()
 cur.execute("DROP TABLE IF EXISTS Info")
 
@@ -146,4 +172,4 @@ def scraper_helper(urls):
 #            time.sleep(10)
         
         
-scraper_helper(neighborhoods)
+scraper_helper(json_reader(neighborhoods))
